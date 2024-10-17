@@ -10,7 +10,7 @@ const LogoHeader = () => {
         alt="AdminLTE Logo"
         style={{ opacity: "0.8" }}
       />
-      <span class="brand-text font-weight-light">eDeposit Perpusnas</span>
+      <span class="brand-text font-weight-light">Munna Store</span>
     </Link>
   );
 };

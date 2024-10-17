@@ -4,7 +4,7 @@ import logo from "./../logo.svg";
 
 const Header = () => {
   return (
-    <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+    <nav class="main-header navbar navbar-expand  navbar-dark navbar-dark">
       <ul class="navbar-nav">
         {/* Menu burger */}
         <li class="nav-item">
